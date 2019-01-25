@@ -28,14 +28,14 @@ h1 {
 h3 {
   font-size: 1.3em;
 }
-
+/* changed "element" to "element 1" */
 .element1 {
   background-color: green;
   height: 100px;
   margin: 10px;
   width: 100%;
 }
-
+/* added "element2" and chaged background color to blue */
 .element2 {
   background-color: blue;
   height: 100px;
